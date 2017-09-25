@@ -1,0 +1,37 @@
+/* Style Sheet for Crystal Game */
+
+h1 {
+    font-family: Tahoma, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 36px;
+    font-style: bold;
+    color: #0000FF;
+    text-align: center;
+}
+
+h2 {
+    font-family: Tahoma, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+p {
+    font-family: Tahoma, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 10px;
+    color: #777;
+}
+
+.question {
+    font-family: Tahoma, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    color: #DC143C;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+}
